@@ -4,9 +4,9 @@
 Practice space for using the Github Workflow.
 
 Participants:
-Ben Coleman
-Davin Glynn
-Vicente Rivera
+* Ben Coleman
+* Davin Glynn
+* Vicente Rivera
 
 ## Setup
 
